@@ -40,8 +40,8 @@
   <a href="https://github.com/Saboyaa/snake_rust">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saboyaa&repo=snake_rust&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/Saboyaa/PDF_READER">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saboyaa&repo=PDF_READER&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Saboyaa/PDF_Reader">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saboyaa&repo=PDF_Reader&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
